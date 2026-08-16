@@ -1,7 +1,7 @@
 return {
-  'nvim-lualine/lualine.nvim',
-  dependencies = { 'nvim-tree/nvim-web-devicons' },
-  opts = {
-    options = { theme = 'ayu_mirage' }
-  },
+	"nvim-lualine/lualine.nvim",
+	dependencies = { "nvim-tree/nvim-web-devicons" },
+	opts = {
+		options = { theme = "ayu_mirage" },
+	},
 }
